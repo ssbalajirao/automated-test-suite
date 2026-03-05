@@ -39,8 +39,11 @@ automated-test-suite/
 
 ## Features
 
-✅ Page Object Model
-✅ Reusable Components
-✅ Explicit Waits
-✅ Comprehensive Test Cases
-✅ Professional Documentation
+Page Object Model
+
+Reusable Components
+
+Explicit Waits
+
+Comprehensive Test Cases
+Professional Documentation
